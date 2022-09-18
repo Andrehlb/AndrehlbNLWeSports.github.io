@@ -17,7 +17,7 @@ body {
 
 }
 
-body {
+body *{
     font-family: 'Inter', sans-serif;
 }
 
@@ -100,7 +100,7 @@ section{
 }
 
 section div{
-    background-color: #2A2634;
+    background-color: #201a30;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
@@ -141,7 +141,7 @@ section ul li:hover{
     border: 1px solid aliceblue;
 }
 
-/* Animations */
+/* Animated */
 
 header div{
     animation: fromTop .7s .2s backwards;
@@ -184,3 +184,5 @@ main section:nth-child(3){
         transform: translateY(0);
     }
 }
+
+
