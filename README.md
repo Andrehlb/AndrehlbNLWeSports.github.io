@@ -3,7 +3,7 @@ Games and Channels
 
 # NLW eSports
 
-> Trilha Explorer
+> Trilha Explorer 
 
 ![preview](AndrehlbNLWeSports.github.io/esports/trilhaExplorer/assets/imagens/)
 
