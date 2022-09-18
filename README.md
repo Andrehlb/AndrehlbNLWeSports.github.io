@@ -15,4 +15,4 @@ Games and Channels
  >- Git e Github
  >- Figma
 
- [🔗 Clique aqui para acessar]([https://eliasdeallmeida.github.io/nlw-esports/](https://github.com/Andrehlb/AndrehlbNLWeSports.github.io.git)
+ [🔗 Clique aqui para acessar](https://github.com/Andrehlb/AndrehlbNLWeSports.github.io.git)
