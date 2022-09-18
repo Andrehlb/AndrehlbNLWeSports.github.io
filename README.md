@@ -5,7 +5,7 @@ Games and Channels
 
 > Trilha Explorer
 
-![preview]()
+![preview](AndrehlbNLWeSports.github.io/esports/trilhaExplorer/assets/imagens/)
 
  Projeto feito durante o evento Next Level Week (NLW) Trilha Explorer da Rocketseat.
 
