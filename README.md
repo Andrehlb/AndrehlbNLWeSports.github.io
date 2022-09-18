@@ -9,7 +9,7 @@ Games and Channels
 
  Projeto feito durante o evento Next Level Week (NLW) Trilha Explorer da Rocketseat.
 
- ## Tecnologias
+ ## Linguagens de Estruturação e Estilo | Tecnologias | Repositório
  >- HTML
  >- CSS
  >- Git e Github
